@@ -1,0 +1,25 @@
+.Todo {
+	margin: 10px 20%;
+	padding: 20px;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgb(50, 73, 202);
+	border-radius: 5px;
+	box-shadow: 2px 3px 3px rgb(152, 152, 158);
+	color: whitesmoke;
+}
+
+.Todo .content {
+	font-size: 20px;
+	font-weight: bold;
+	overflow-wrap: anywhere;
+}
+
+p.delete-btn {
+	cursor: pointer;
+	margin-left: 20px;
+}
+p.delete-btn:hover {
+	font-size: 24px;
+	font-weight: 900;
+}

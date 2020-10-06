@@ -1,0 +1,12 @@
+.TodoForm {
+	justify-content: space-around;
+	margin: 5vh 3%;
+}
+
+.TodoForm input {
+	height: 100%;
+	width: 70vw;
+	margin-right: 10px;
+	padding: 5px;
+	font-size: 20px;
+}

@@ -1,0 +1,8 @@
+.TodoList {
+	height: 80vh;
+}
+
+.TodoList .tasks-list {
+	margin: 5vh 0;
+	flex-direction: column;
+}
